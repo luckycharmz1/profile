@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on three.js<br>My hobbies include all things tech like photography, videography, web design and development.<br>I need help with getting package.json and node_modules folder from three.js journey<br><br>
+I'm currently working on three.js<br>My hobbies include all things tech: photography, videography, web design and development.<br>I need help with getting package.json and node_modules folder from three.js journey<br><br>
 
 
 ## 🌐 Socials:
